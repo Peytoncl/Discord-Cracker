@@ -1,0 +1,20 @@
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\Discord Rat V1.exe.config
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\Discord Rat V1.exe
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\Discord Rat V1.pdb
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord Rat V1.csprojAssemblyReference.cache
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord_Rat_V1.Form1.resources
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord_Rat_V1.Properties.Resources.resources
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord Rat V1.csproj.GenerateResource.cache
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord Rat V1.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord Rat V1.exe
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord Rat V1.pdb
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\DotNetBrowser.Chromium.Win-x64.dll
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\DotNetBrowser.Chromium.Win-x86.dll
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\DotNetBrowser.Core.dll
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\DotNetBrowser.dll
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\DotNetBrowser.Logging.dll
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\DotNetBrowser.WinForms.dll
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\protobuf-net.dll
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\protobuf-net.Reflection.dll
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord Rat V1.exe.config
+C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord Rat V1.csproj.CopyComplete
