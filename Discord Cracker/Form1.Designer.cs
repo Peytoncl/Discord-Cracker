@@ -124,7 +124,7 @@
             this.ImeMode = System.Windows.Forms.ImeMode.Off;
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Discord Cracker V1";
+            this.Text = "Peyton\'s Discord Cracker ";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
