@@ -53,7 +53,7 @@ namespace Discord_Rat_V1
             System.Diagnostics.Process.Start(Application.StartupPath + "/Start.bat");
             await Task.Delay(700);
             this.TopMost = true;
-            await Task.Delay(1);
+            await Task.Delay(500);
             this.TopMost = false;
         }
 
