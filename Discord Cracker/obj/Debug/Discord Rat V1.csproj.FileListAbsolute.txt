@@ -18,3 +18,15 @@ C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\protobuf-net.dll
 C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\bin\Debug\protobuf-net.Reflection.dll
 C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord Rat V1.exe.config
 C:\Users\Peyto\Desktop\Discord Rat V1\Discord Rat V1\obj\Debug\Discord Rat V1.csproj.CopyComplete
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\Discord Rat V1.exe.config
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\Discord Rat V1.exe
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\Discord Rat V1.pdb
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.csprojAssemblyReference.cache
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.exe.config
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord_Rat_V1.Form1.resources
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord_Rat_V1.Properties.Resources.resources
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.csproj.GenerateResource.cache
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.csproj.CopyComplete
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.exe
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.pdb
