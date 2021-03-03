@@ -24,6 +24,6 @@ Probably.
 
 ## Contributers
 
-### Peyton
+Peyton
 
-### Saturn
+Saturn
