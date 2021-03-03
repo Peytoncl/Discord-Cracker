@@ -46,8 +46,7 @@ namespace Discord_Rat_V1
         {
             richTextBox2.Text = "";
 
-            if (richTextBox1.Text == "") richTextBox2.Text = "PLEASE ENTER A TOKEN";
-            if (richTextBox1.Text == "") return;
+            if (richTextBox1.Text == "") { richTextBox2.Text = "PLEASE ENTER A TOKEN"; return; } 
 
             string filetext = File.ReadAllText(Application.StartupPath + "/token_login.txt");
             richTextBox2.Text = filetext + richTextBox1.Text + "')";
