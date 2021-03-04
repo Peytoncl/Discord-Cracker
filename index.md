@@ -10,6 +10,8 @@ https://github.com/Peytoncl/Discord-Cracker/releases/latest
 
 It is an application made to help you login to an account with just the Discord token. It generates a string of code for you to copy and paste into your google console, and logs you into the account automatically after running it.
 
+![Screenshot 2021-03-03 040352](https://user-images.githubusercontent.com/24628561/109945992-c87cc400-7ca5-11eb-9281-1e1f53234f8d.png)
+
 ### Is this illegal?
 
 It depends on how you use it. If you plan on using it maliciously, then yes, it is illegal, and can lead up to a maximum of 5 years in U.S imprisonment. Though, if you plan on using it on yourself, or using the open source code for research, then no, it is not illegal. (Don't quote me on that)
