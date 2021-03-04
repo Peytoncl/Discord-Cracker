@@ -21,3 +21,9 @@ Your token is a value that's created when you login. This token is passed around
 ### Did you miss stuff in this FAQ?
 
 Probably.
+
+### Contributers
+
+Peyton
+
+Saturn
