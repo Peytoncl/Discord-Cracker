@@ -20,7 +20,7 @@ namespace Discord_Rat_V1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void webBrowser1_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)

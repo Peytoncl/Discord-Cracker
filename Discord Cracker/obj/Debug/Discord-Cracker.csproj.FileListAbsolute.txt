@@ -1,0 +1,12 @@
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\Discord Rat V1.exe.config
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\Discord Rat V1.exe
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\Discord Rat V1.pdb
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord-Cracker.csprojAssemblyReference.cache
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.exe.config
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord_Rat_V1.Form1.resources
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord_Rat_V1.Properties.Resources.resources
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord-Cracker.csproj.GenerateResource.cache
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord-Cracker.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord-Cracker.csproj.CopyComplete
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.exe
+C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.pdb
