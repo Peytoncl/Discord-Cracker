@@ -83,6 +83,26 @@ namespace Discord_Rat_V1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap GithubIcon {
+            get {
+                object obj = ResourceManager.GetObject("GithubIcon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap GithubIconSmall {
+            get {
+                object obj = ResourceManager.GetObject("GithubIconSmall", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Steps {
             get {
                 object obj = ResourceManager.GetObject("Steps", resourceCulture);

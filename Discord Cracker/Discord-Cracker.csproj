@@ -118,5 +118,11 @@
   <ItemGroup>
     <None Include="bin\Debug\unknown.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\GithubIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\GithubIconSmall.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
