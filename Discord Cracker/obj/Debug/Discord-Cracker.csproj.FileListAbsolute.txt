@@ -10,15 +10,15 @@ C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discor
 C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord-Cracker.csproj.CopyComplete
 C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.exe
 C:\Users\Peyto\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.pdb
-C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\Discord Rat V1.exe.config
-C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\Discord Rat V1.exe
-C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\Discord Rat V1.pdb
 C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord-Cracker.csproj.AssemblyReference.cache
 C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord_Rat_V1.Form1.resources
 C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord_Rat_V1.Properties.Resources.resources
 C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord-Cracker.csproj.GenerateResource.cache
 C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord-Cracker.csproj.CoreCompileInputs.cache
 C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord-Cracker.csproj.CopyComplete
-C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.exe
-C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\Discord Rat V1.pdb
 C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\WebDriver.dll
+C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\DiscordCracker.exe.config
+C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\DiscordCracker.exe
+C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\bin\Debug\DiscordCracker.pdb
+C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\DiscordCracker.exe
+C:\Users\Peyton\Documents\GitHub\Discord-Cracker\Discord Cracker\obj\Debug\DiscordCracker.pdb

@@ -7,7 +7,7 @@
     <ProjectGuid>{E7AE748A-B8D7-436E-8D56-1CBFB809B369}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Discord_Rat_V1</RootNamespace>
-    <AssemblyName>Discord Rat V1</AssemblyName>
+    <AssemblyName>DiscordCracker</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
